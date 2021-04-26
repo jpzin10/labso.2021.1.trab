@@ -1,0 +1,6 @@
+../labso.2021.1.trab/pasta1/1.txt
+../labso.2021.1.trab/pasta2/2.txt
+../labso.2021.1.trab/pasta3/pasta31/3.txt
+../labso.2021.1.trab/jp1.txt
+../labso.2021.1.trab/jp2.txt
+../labso.2021.1.trab/jp3.txt
